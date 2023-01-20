@@ -1,0 +1,4 @@
+#!/home/didimarinho/apiflask/venv/bin/python3
+
+import pyFetch.Fetch
+pyFetch.Fetch.run()
